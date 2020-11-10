@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for personal purposes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanHendersonRichtByte/discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Evan Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanHendersonRichtByte/discord-bot/issues"
+  },
+  "homepage": "https://github.com/EvanHendersonRichtByte/discord-bot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.4.1",
+    "ffmpeg-static": "^4.2.7"
+  }
+}
