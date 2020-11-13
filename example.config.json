@@ -1,6 +1,6 @@
 {
     "prefix": "<",
-    "token": "Nzc1MzAzNTMwNzU5ODQ3OTM4.X6kXrg.d-Uon4_2OtDmQWfK_mQvpPTixIU",
+    "token": "example-token-goes-here",
     "presence": {
         "activity": { "name": "command | <", "type":3, "url":"http://evanhendersonrichtbyte.github.io/" },
         "status": "dnd"
